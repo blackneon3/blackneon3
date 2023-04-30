@@ -1,6 +1,8 @@
+# Hello
+
 - 👋 Hi, I’m @blackneon3
 - 👀 I’m interested in Formula 1 and basketball
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 - 📫 How to reach me sergiusz.grzeda@gmail.com
 
 <!---
